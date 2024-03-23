@@ -1,12 +1,11 @@
 package Pkg_one;
 
-public class DemoGit {
-	
+public class Subtraction {
 	public static void main(String[] args) {
 
 		int a = 12, b = 13, c;
-		c = a +b;
+		c = a -b;
 		
-		System.out.println("addition: "+c);
+		System.out.println("Subtraction : "+c);
 	}
 }
